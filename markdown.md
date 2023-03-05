@@ -1,4 +1,5 @@
 # kodluyoruzilkrepo
+Bu repo [kodluyoruz](http://www.https://kodluyoruz.org/)
 
 
 
