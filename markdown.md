@@ -26,4 +26,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![markdown ilk proje](https://github.com/VolkanAkyol/kodluyoruzilkrepo/blob/main/markdown.md)
+![markdown ilk proje](markdown%20projesi.PNG)
